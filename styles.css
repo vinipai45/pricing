@@ -1,0 +1,47 @@
+#price{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    
+    
+  }
+  .col:hover{
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -o-transition: 500ms ease;
+    transition: all ease;
+    transform: scale(1.05);
+  
+  }
+  .col{
+    transition: 0.3s;
+    margin-bottom: 140px;
+   
+    
+
+  }
+  a:hover{
+    color: white;
+    text-decoration: none;
+  }
+  .jumbotron{
+    padding: 150px;
+    
+  
+  }
+  .card{
+    width: 230px;
+  }
+  .card-title{
+    color: #2196f3;
+  }
+  
+  .btn:hover{
+    cursor: default;
+    
+  }
+  
+  /* .card-action:hover{
+    padding-bottom: 50px;
+
+  } */
